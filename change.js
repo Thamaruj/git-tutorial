@@ -1,2 +1,2 @@
 console.log("change.js")
-confirm.log("Version 1")
+confirm.log("Version 12")
